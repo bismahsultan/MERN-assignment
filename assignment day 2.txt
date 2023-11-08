@@ -1,0 +1,73 @@
+What is a Wireframe?
+
+A wireframe is a visual representation or a skeletal outline of a webpage, application, or product. It is a basic, simplified, and low-fidelity representation that outlines the structure and layout of a user interface. Wireframes are typically created early in the design process to help designers, developers, and stakeholders get a clear understanding of the overall layout and functionality of a digital product.
+
+Wireframes do not contain detailed design elements like colors, images, or specific fonts. Instead, they focus on the arrangement of elements such as buttons, forms, menus, and content blocks. This allows designers and stakeholders to focus on the user experience and functionality before investing time in detailed visual design.
+
+Wireframes can be created using various tools, both digitally with software like Adobe XD, Sketch, Figma, or even with pen and paper in a physical sketch. They play a crucial role in the user-centered design process, helping to iterate and refine the design before moving on to more detailed prototypes and final implementations.
+
+What is a Markup?
+A markup refers to the set of notations or tags that are used to define the structure and presentation of a document, typically in a way that is readable by both humans and machines. Markup languages are used to describe the elements and layout of content within a document, such as web pages.
+
+One of the most well-known markup languages is HTML (HyperText Markup Language), which is used to create the structure of web pages by defining elements like headings, paragraphs, links, images, and more. HTML uses tags (enclosed in angle brackets <>) to indicate the beginning and end of elements.
+
+Difference between scripting and Programming language
+Scripting languages and programming languages are both used for writing computer programs, but they have some key differences in how they are used and executed:
+
+Interpretation vs. Compilation:
+
+Scripting Language: Scripting languages are typically interpreted at runtime. This means that each line of code is translated into machine code or executed by an interpreter as the program runs.
+Programming Language: Many programming languages, especially compiled languages, go through a separate compilation step before execution. The source code is translated into machine code or bytecode, which is then executed.
+Execution Speed:
+
+Scripting Language: Generally, scripting languages tend to be slower in execution compared to compiled languages. This is because they are interpreted at runtime, which introduces some overhead.
+Programming Language: Compiled languages often run faster because the code is translated into machine language beforehand, which can be directly executed by the computer's processor.
+Flexibility and Ease of Use:
+
+Scripting Language: Scripting languages are typically more flexible and easier to learn. They often have simpler syntax and are designed for specific tasks like automating tasks, web development, or system administration.
+Programming Language: Some programming languages can be more complex and have steeper learning curves. They may provide more control over low-level operations and are used for a broader range of applications.
+Application Domain:
+
+Scripting Language: Scripting languages are commonly used for tasks like automation, web development, data analysis, and system administration. Examples include Python, JavaScript (in web development), and Bash (for shell scripting).
+Programming Language: Programming languages are used for a wide variety of tasks, including software development, game development, system programming, scientific computing, and more. Examples include C++, Java, and C#.
+Usage in Web Development:
+
+Scripting Language: JavaScript is a scripting language commonly used for front-end web development. It runs in web browsers and is responsible for interactive elements on web pages.
+Programming Language: Back-end web development often involves the use of programming languages like Python, Ruby, Java, PHP, etc., which handle server-side processing.
+Typing:
+
+Scripting Language: Scripting languages are often dynamically typed, meaning you don't need to specify the type of a variable explicitly, and the type can change during runtime.
+Programming Language: Some programming languages, especially statically typed ones, require explicit declaration of variable types, and once a variable is assigned a type, it cannot be changed.
+
+
+What is ECMA?
+ECMA (European Computer Manufacturers Association) is an international standards organization that develops and publishes standards for information and communication technology (ICT) and consumer electronics. It was founded in 1961 and is based in Geneva, Switzerland.
+
+ECMA is known for standardizing programming languages, file formats, and other technologies that are widely used in the computing industry. One of the most well-known standards developed by ECMA is ECMAScript, which is the standardized specification for the scripting language JavaScript. ECMAScript defines the core features that a scripting language like JavaScript must provide, and it serves as a foundation for various JavaScript implementations.
+
+ECMA also works on standardizing other technologies, including:
+
+Office Open XML (OOXML): A file format standard for electronic office documents, including spreadsheets, word processing, and presentations. It is used by applications like Microsoft Office.
+
+C# Language Specification: ECMA-334 is the standard that defines the C# programming language.
+
+Common Language Infrastructure (CLI): ECMA-335 defines the common infrastructure for executing programs written in multiple programming languages.
+
+JSON: ECMA-404 and ECMA-262 define the JSON data interchange format and the ECMAScript language specification, respectively.
+
+ECMA standards are important for ensuring interoperability and compatibility between different software implementations. They help to create a level playing field for developers and promote the widespread adoption of technologies across different platforms and devices.
+
+
+6 best website designs in 2023
+
+1. Kismet
+2. FullyRaw
+3. Industrial Jewelry
+4. Girlboss
+5. Fat Choy
+6. Knapsack Creative
+
+
+
+
+
